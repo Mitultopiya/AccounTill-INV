@@ -9,7 +9,6 @@ I am pleased to inform you that the name of this repository has been changed fro
 There are so many things coming! Stay tuned!!
 
 
-Panshak
 ----
 
   * [Introduction](#introduction)
